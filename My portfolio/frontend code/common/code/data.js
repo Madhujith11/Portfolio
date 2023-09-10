@@ -9,15 +9,15 @@ export let sidebar_arr = [
   },
   {
     text : "Stacks",
-    link : "../stacks page/stack.html"
+    link : "../Stacks page page/stacks.html"
   },
   {
     text : "Projects",
-    link : "../projects page/projects.html"
+    link : "../Projects page/projects.html"
   },
   {
     text : "Reviews",
-    link : "../review page/review.html"
+    link : "../Reviews page/reviews.html"
   },
   {
     text : "Contact",
