@@ -1,33 +1,33 @@
 export let sidebar_arr = [
   {
     text : "Home",
-    link : "../Home page/home.html"
+    link : "../Public/home.html"
   },
   {
     text : "About",
-    link : "../About page/about.html"
+    link : "../Public/about.html"
   },
   {
     text : "Stacks",
-    link : "../Stacks page page/stacks.html"
+    link : "../Public/stacks.html"
   },
   {
     text : "Projects",
-    link : "../Projects page/projects.html"
+    link : "../Public/projects.html"
   },
   {
     text : "Reviews",
-    link : "../Reviews page/reviews.html"
+    link : "../Public/reviews.html"
   },
   {
     text : "Contact",
-    link : "../Contact page/contact.html"
+    link : "../Public/contact.html"
   }
 ]
 
 export let home_arr = [
   {
-    img : "../common/img file/prf img.webp",
+    img : "../Images/prf img.webp",
     id : "text1",
     text : [
       {
@@ -53,7 +53,7 @@ export let home_arr = [
 
 export let about_arr = [
   {
-    img : "../common/img file/rocketchat.png",
+    img : "../Images/rocketchat.png",
     id : "text1",
     text : [
       {
@@ -76,7 +76,7 @@ export let about_arr = [
     link : ""
   },
   {
-    img : "../common/img file/gsoc.png",
+    img : "../Images/gsoc.png",
     id : "text2",
     text : [
       {
@@ -99,7 +99,7 @@ export let about_arr = [
     link : ""
   },
   {
-    img : "../common/img file/github.png",
+    img : "../Images/github.png",
     id : "text3",
     text : [
       {
@@ -122,7 +122,7 @@ export let about_arr = [
     link : ""
   },
   {
-    img : "../common/img file/youtube.webp",
+    img : "../Images/youtube.webp",
     id : "text4",
     text : [
       {
@@ -145,7 +145,7 @@ export let about_arr = [
     link : ""
   },
   {
-    img : "../common/img file/college logo.jpg",
+    img : "../Images/college logo.jpg",
     id : "text5",
     text : [
       {
@@ -172,7 +172,7 @@ export let about_arr = [
 
 export let stack_arr = [
   {
-    img : "../common/img file/frontend logo.jpg",
+    img : "../Images/frontend logo.jpg",
     id : "text1",
     text : [
       {
@@ -203,7 +203,7 @@ export let stack_arr = [
     link : ""
   },
   {
-    img : "../common/img file/backend logo.jpg",
+    img : "../Images/backend logo.jpg",
     id : "text2",
     text : [
       {
@@ -234,7 +234,7 @@ export let stack_arr = [
     link : ""
   },
   {
-    img : "../common/img file/Devops.png",
+    img : "../Images/Devops.png",
     id : "text3",
     text : [
       {
@@ -268,7 +268,7 @@ export let stack_arr = [
 
 export let projects_arr = [
   {
-    img : "../common/img file/ecom.jpg",
+    img : "../Images/ecom.jpg",
     id : "text1",
     text : [
       {
@@ -291,7 +291,7 @@ export let projects_arr = [
     link : ""
   },
   {
-    img : "../common/img file/booking.jpg",
+    img : "../Images/booking.jpg",
     id : "text2",
     text : [
       {
@@ -314,7 +314,7 @@ export let projects_arr = [
     link : ""
   },
   {
-    img : "../common/img file/socialmedia.webp",
+    img : "../Images/socialmedia.webp",
     id : "text3",
     text : [
       {
@@ -363,19 +363,19 @@ export let media_arr = [
 
 export let review_arr = [
   {
-    img : "../common/img file/client1.jpg",
+    img : "../Images/client1.jpg",
     name : "Name",
     text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem, sunt!",
     link : ""
   },
   {
-    img : "../common/img file/client2.jpg",
+    img : "../Images/client2.jpg",
     name : "Name",
     text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem, sunt!",
     link : ""
   },
   {
-    img : "../common/img file/client3.jpg",
+    img : "../Images/client3.jpg",
     name : "Name",
     text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem, sunt!",
     link : ""
