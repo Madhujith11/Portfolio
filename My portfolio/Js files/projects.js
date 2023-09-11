@@ -1,8 +1,8 @@
 let nav =  document.querySelector("header nav")
 
-import {sidebar_arr,projects_arr} from "../Data/data.js"
+import {sidebar_arr,projects_arr} from "../Public/Data/data.js"
 
-import {sidebar,boxrender,textrender,showheaders} from "../Main files/Js/main.js"
+import {sidebar,boxrender,textrender,showheaders} from "../Public/Js/main.js"
 
 sidebar(nav,sidebar_arr)
 
